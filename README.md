@@ -1,4 +1,4 @@
-🛒 ##Global E-commerce Insights: Brasil vs. Paquistão
+## Global E-commerce Insights: Brasil vs. Paquistão
 
 Este repositório contém um estudo comparativo entre dois mercados de e-commerce distintos, utilizando datasets reais do Kaggle. O objetivo foi identificar padrões de consumo, logística e performance de vendas.
 
